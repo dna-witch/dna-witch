@@ -40,8 +40,6 @@
       alt="Typing SVG"
     />
   </a>
-
-<br><br>
 <br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University
 <br>- ⚛️ I'm currently learning all about PyTorch, LLMs, and Recommendation Systems
 <br>- 💗 I'm passionate about building AI tools to advance biomedical research
