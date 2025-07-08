@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">I'm Shakuntala, a Data Scientist and AI Researcher👋🏼 <br><br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University<br>- ⚛️ I'm currently learning all about PyTorch, LLMs, and Recommendation Systems<br>- 💗 I'm passionate about building AI tools to advance scientific research<br>- 📚 I write about my experiences in tech and share my knowledge<br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, and biotech lab research<br>- ⚡ In my free time I love to play video games, practice Muay Thai, and crochet</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00AA07&vCenter=true&multiline=true&width=500&height=100&lines=Hi%2C+I'm+Shakuntala!++I'm+a+Data+Scientist.;I'm+building+AI+for+the+life+sciences.)](https://git.io/typing-svg)
+
+<p align="left">I'm Shakuntala, a Data Scientist and AI Researcher👋🏼 <br><br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University<br>- ⚛️ I'm currently learning all about PyTorch, LLMs, and Recommendation Systems<br>- 💗 I'm passionate about building AI tools to advance biomedical research<br>- 📚 I write about my experiences in tech and share my knowledge because I'm passionate about open access science <br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, and biotech lab research<br>- ⚡ In my free time I love to play video games, practice Muay Thai, and crochet</p>
 
 ###
 
