@@ -32,9 +32,24 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00AA07&vCenter=true&multiline=true&width=500&height=100&lines=Hi%2C+I'm+Shakuntala!++I'm+a+Data+Scientist.;I'm+building+AI+for+the+life+sciences.)](https://git.io/typing-svg)
+<p align="left"> 
+  
+<a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00AA07&vCenter=true&multiline=true&width=500&height=100&lines=Hi%2C+I%27m+Shakuntala!++I%27m+a+Data+Scientist.;I%27m+building+AI+for+the+life+sciences."
+      alt="Typing SVG"
+    />
+  </a>
 
-<p align="left">I'm Shakuntala, a Data Scientist and AI Researcher👋🏼 <br><br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University<br>- ⚛️ I'm currently learning all about PyTorch, LLMs, and Recommendation Systems<br>- 💗 I'm passionate about building AI tools to advance biomedical research<br>- 📚 I write about my experiences in tech and share my knowledge because I'm passionate about open access science <br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, and biotech lab research<br>- ⚡ In my free time I love to play video games, practice Muay Thai, and crochet</p>
+<br><br>
+<br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University
+<br>- ⚛️ I'm currently learning all about PyTorch, LLMs, and Recommendation Systems
+<br>- 💗 I'm passionate about building AI tools to advance biomedical research
+<br>- 📚 I write about my experiences in tech and share my knowledge because I'm passionate about open access science
+<br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, and biotech lab research
+<br>- ⚡ In my free time I love to play video games, practice Muay Thai, and crochet
+
+</p>
 
 ###
 
