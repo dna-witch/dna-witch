@@ -41,11 +41,11 @@
     />
   </a>
 <br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University
-<br>- ⚛️ I'm currently learning all about PyTorch, LLMs, and Recommendation Systems
+<br>- ⚛️ I'm learning all about Transformers, Computational Drug Discovery workflows, and building Agentic systems
 <br>- 💗 I'm passionate about building AI tools to advance biomedical research
 <br>- 📚 I write about my experiences in tech and share my knowledge because I'm passionate about open access science
-<br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, and biotech lab research
-<br>- ⚡ In my free time I love to play video games, practice Muay Thai, and crochet
+<br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, biotech, and laboratory research
+<br>- ⚡ In my free time, I practice Muay Thai, play video games, and crochet
 
 </p>
 
