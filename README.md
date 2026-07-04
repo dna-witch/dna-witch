@@ -40,10 +40,10 @@
       alt="Typing SVG"
     />
   </a>
-<br>- 🔭 I’m working towards my MS in Artificial Intelligence from Johns Hopkins University
+<br>- 🔭 I’m a Data Scientist and AI Engineer with 4 years of experience and an MS in Artificial Intelligence from Johns Hopkins University
 <br>- ⚛️ I'm learning all about Transformers, Computational Drug Discovery workflows, and building Agentic systems
-<br>- 💗 I'm passionate about building AI tools to advance biomedical research
-<br>- 📚 I write about my experiences in tech and share my knowledge because I'm passionate about open access science
+<br>- 💗 I'm passionate about building AI tools to advance biomedical research, drug discovery, and personalized medicine, especially for rare diseases
+<br>- 📚 I write about my journey in tech and share my knowledge because I'm passionate about open science and democratizing knowledge
 <br>- 👩🏻‍🔬 I have a background in biochemistry, molecular biology, biotech, and laboratory research
 <br>- ⚡ In my free time, I practice Muay Thai, play video games, and crochet
 
